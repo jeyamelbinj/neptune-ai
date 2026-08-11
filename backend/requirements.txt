@@ -1,0 +1,28 @@
+﻿# --- Core API & Server ---
+fastapi>=0.110.0
+uvicorn[standard]>=0.28.0
+python-multipart>=0.0.9
+slowapi>=0.1.9
+
+# --- LLM & AI ---
+groq>=0.5.0
+openai>=1.0.0
+
+# --- Data Processing & File Parsing ---
+pandas>=2.2.0
+openpyxl>=3.1.2
+pypdf>=4.0.0
+pdfplumber>=0.11.0
+python-docx>=1.1.0
+
+# --- Database & Validation ---
+sqlalchemy>=2.0.0
+pydantic>=2.6.0
+pydantic-settings>=2.2.0
+python-dotenv>=1.0.0
+
+# --- Utilities (Web Requests, Weather API, ATS Parsing) ---
+requests>=2.31.0
+httpx>=0.27.0
+beautifulsoup4>=4.12.0
+lxml>=5.1.0

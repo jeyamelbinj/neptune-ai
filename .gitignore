@@ -1,0 +1,19 @@
+﻿# Backend (Python/FastAPI)
+backend/env/
+backend/venv/
+env/
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.log
+# Environment Variables (CRITICAL)
+.env
+backend/.env
+# Frontend (React/Vite)
+node_modules
+dist
+dist-ssr
+*.local
