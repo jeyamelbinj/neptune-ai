@@ -5,7 +5,7 @@ Live Demo: https://neptune-ai-ecru.vercel.app/
 
 An enterprise-grade, cinematic AI assistant built with React, Three.js, and FastAPI. NEPTUNE bridges the gap between advanced Large Language Models (LLMs) and interactive data engineering, featuring a live 3D interface and a powerful backend ecosystem.
 
-——————————————————————————————————————————————————————————————————————————————————————————————————————————
+———————————————————————————————————————————————————————————————————————————————————————————————————
 
 👨‍💻 Developer
 JEYA MELBIN J
@@ -18,6 +18,9 @@ https://github.com/jeyamelbin
 
 🔗 Portfolio:
 https://jeyamelbinj.github.io/melbin-portfolio/
+
+🔗 Live Demo: 
+https://neptune-ai-ecru.vercel.app/
 
 ——————————————————————————————————————————————————————————————————————————————————————————————————————————
 
